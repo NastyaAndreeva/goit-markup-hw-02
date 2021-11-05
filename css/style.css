@@ -123,6 +123,7 @@ body {
 }
 
 .team .title {
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.172;  
 }
